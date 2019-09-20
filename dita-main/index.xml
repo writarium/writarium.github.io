@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DITA Topics on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/dita-main/</link>
+    <description>Recent content in DITA Topics on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/dita-main/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Topic Elements</title>
+      <link>https://writarium.github.io/dita-main/topic-elements/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/topic-elements/</guid>
+      <description>Elements are shown schematically in a hierarchy. They are actually XML tag structures, properly nested and well formed.
+Each opening tag has a balancing close tag with a slash before the tag name.
+&amp;lt;topic id=&amp;quot;1&amp;quot;°&amp;gt; &amp;lt;title&amp;gt;My Topic&amp;lt;/title&amp;gt; &amp;lt;shortdesc&amp;gt;About my topic...&amp;lt;/shortdesc&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Some content&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Some more content&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/topic&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Topic Elements - Order and Number</title>
+      <link>https://writarium.github.io/dita-main/topic-elements-order-and-number/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/topic-elements-order-and-number/</guid>
+      <description>There is only one short description, one Prolog, and one set of related links.
+Body elements in the base topic can appear in any order with no limits on their numbers.
+Although there Is only one title for the topic as a whole, some body elements, like sections and examples, may have their own titles.
+Specialization of topics (into concept, task, and reference) puts additional limits on the allowed body elements, their numbers.</description>
+    </item>
+    
+    <item>
+      <title>Generic Topic</title>
+      <link>https://writarium.github.io/dita-main/generic-topic/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/generic-topic/</guid>
+      <description>An example of a generic topic is displayed below. Notice that it has all the popular elements (tags) - topicid, title, shortdesc, body, p, body, topic etc.
+All the elements (tags) used in a generic topic can be found in any of the concept, task, or reference topic.
+Generic Topic XML View &amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt; &amp;lt;!DOCTYPE topic PUBLIC &amp;quot;-//OASIS//DTD DITA Topic//EN&amp;quot; &amp;quot;topic.dtd&amp;quot;&amp;gt; &amp;lt;topic id=&amp;quot;MyTopicID_001&amp;quot;&amp;gt; &amp;lt;title&amp;gt;Title for my Generic Topic&amp;lt;/title&amp;gt; &amp;lt;shortdesc&amp;gt;A generic topic can be any type of topic - concept, task, or reference type.</description>
+    </item>
+    
+    <item>
+      <title>Concept Topic</title>
+      <link>https://writarium.github.io/dita-main/concept-topic/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/concept-topic/</guid>
+      <description>It covers the conceptual information and a description about the product. The root element is named concept and the body element is renamed conbody instead of body. As with the generic topic, any number of paragraphs, lists, or table tags may be used.
+None of the mentioned tags - paragraphs, lists, or table - are allowed after the first section or example. However, sections and examples can then appear in any order.</description>
+    </item>
+    
+    <item>
+      <title>Task Topic</title>
+      <link>https://writarium.github.io/dita-main/task-topic/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/task-topic/</guid>
+      <description>It covers the conceptual information and a description about the product. The root element is named task and the body element is renamed taskbody instead of body. As with the generic topic, any number of paragraphs, lists, or table tags may be used.  One task prerequisite and one context (both specializations of section) are followed by steps (a specialization of ordered fist). Each step must have a command, then optional info.</description>
+    </item>
+    
+    <item>
+      <title>Reference Topic</title>
+      <link>https://writarium.github.io/dita-main/reference-topic/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/reference-topic/</guid>
+      <description>The root element is named reference and the body element is renamed refbody instead of body. As with the generic topic, any number of paragraphs, lists, or table tags may be used.
+The refbody includes a properties element (a specialization of simpletable) which is a three-column table of property types.
+The element refsyn (reference syntax) is a specialization of the section element.
+Reference Topic XML View &amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt; &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>DITA Maps</title>
+      <link>https://writarium.github.io/dita-main/dita-maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/dita-maps/</guid>
+      <description>The following figure shows different DITA topics being mapped to a single DITA Map called mastermap.dita. When you change the content in the original DITA topic, say genereictopic.dita, and recompile the DITA map, all the changes will be reflected in the final generated PDF or WebHelp.
+The items on the left of the DITA topics are Topic Heads, which are similar to section/topic names when the PDF is generated.</description>
+    </item>
+    
+    <item>
+      <title>Organizing Topics with Maps</title>
+      <link>https://writarium.github.io/dita-main/organizing-topics-maps/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/organizing-topics-maps/</guid>
+      <description>The first DITA map organizes topics 1,2, and 3 into a web (HTML) deliverable.
+A second map organizes topics 1, 3, and 5 into a print (PDF) deliverable.
+A third map organizes all six topics into a Help deliverable.
+DITA provides reuse of topic content with single sourcing.
+Change the original topic content, recompile and all your delivarabhos are updated</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>getting started on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/getting-started/</link>
+    <description>Recent content in getting started on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating and Planning your Documentation Work</title>
+      <link>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</guid>
+      <description>Tools and Software Use tools, such as Microsoft Project or Aceproject to record and track the progress of a project. This is usually task based where each document and its related activity, whether creation or review, is divided into various tasks.
+Estimations and Plannings  For a guide that is to be written from scratch, estimate 12 hours for a page and a half (with graphics). Include another two hours for reviews and fixes.</description>
+    </item>
+    
+    <item>
+      <title>Organizing Information</title>
+      <link>https://writarium.github.io/writing-guidelines/organizing-information/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/organizing-information/</guid>
+      <description>Most of the times, the documentation team receives a demo from either the development team or QA on the actual application. Once you have attended the demo, look for resources, online or printed, which describe the product features. Go through the Vision and Scope document, also called the Software Requirement Specification (SRS) or Functional Requirement Document (FRD) to understand the flow of the application and its intended actions.
+Decide beforehand the format of the final output that is, whether it will be a PDF or an Online Help file.</description>
+    </item>
+    
+    <item>
+      <title>Outlining Information</title>
+      <link>https://writarium.github.io/writing-guidelines/outlining-information/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/outlining-information/</guid>
+      <description>Instead, based on your understanding of the application, create an outline of your information as early as possible. Once you have your outline reviewed, you can identify what pieces are missing or out of order. Readers expect information to be predictably organized and predictably presented. In addition, it is important that information flows from one section to another and is not scattered.
+While writing, organize your information from the general to the specific and from the theoretical to the concrete.</description>
+    </item>
+    
+    <item>
+      <title>Creating Overviews and Introductions</title>
+      <link>https://writarium.github.io/writing-guidelines/creating-overviews-and-introductions/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/creating-overviews-and-introductions/</guid>
+      <description>Placehoder for image
+ Overviews tell readers what pieces make up a certain product or area of technology and how those pieces relate to each other.
+ Keep overviews and introductions separate from task information, and label them with headings that clearly identify whether the topic is an overview or a task.
+ A reader may need to understand a specific concept to make the correct decision in carrying out steps of a task.</description>
+    </item>
+    
+    <item>
+      <title>Document Life Cycle in Agile</title>
+      <link>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</guid>
+      <description>The following steps are not for a guide that is to be written or created from scratch. It is for a product for which guide(s) already exist and the guide(s) for the product need to be updated for the new feature(s) (and/or bug fixes).
+ Technical Writer (TW) attends a Sprint planning with the Product Manager, development, and QA teams present TW identifies the items (user stories) that should be added to the guide and verifies this with the Product Manager, development, and QA teams during the planning (meeting) or follows up afterward.</description>
+    </item>
+    
+    <item>
+      <title>Document Types</title>
+      <link>https://writarium.github.io/working-with-documents/document-types/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/working-with-documents/document-types/</guid>
+      <description>Here are some of the types of documents or guides that you will write as a technical writer for a software application.
+Installation Guide An installation guide provid systematic instructions to take the product out of the box and install it for use. In addition to the installation instructions, an installation guide consists of prerequisites and other preparations you need to carry out before starting the installation process.
+If a specific application/product has different modules, include the installation procedures for all the modules in one installation guide only, unless specified otherwise.</description>
+    </item>
+    
+    <item>
+      <title>Document Life Cycle in a Waterfall project</title>
+      <link>https://writarium.github.io/document-life-cycle/waterfall-document-life-cycle/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/document-life-cycle/waterfall-document-life-cycle/</guid>
+      <description>Technical Writer (TW) receives a Vision and Scope document from QA/SME/Client. This could be in the form of a BRD, FRD, MRD, links to user stories and so on.
+ QA/SME/Client arrange for a demonstration for the TW, as soon as a stable build of the product is available.
+ TW creates the first draft of the required document. You must use Microsoft Word for creating source documents.
+ At the time of releasing the draft, TW runs the document against the Microsoft Word Release Checklist.</description>
+    </item>
+    
+    <item>
+      <title>Document Type Elements</title>
+      <link>https://writarium.github.io/working-with-documents/document-types-elements/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/working-with-documents/document-types-elements/</guid>
+      <description>While it is necessary to include some sections in a particular type of document, you can take the liberty of not including some sections as long as the essential information is conveyed.
+For example, the following table provides a quick reference to the list of required and optional elements/sections in release notes, installation guide, and user guide.
+   Sections Release Notes Installation Guide User Guide     Introduction Required Required Required   New features Required Not Required Not Required   Known Issues Required Not Required Not Required   Resolved Issues Optional Not Required Not Required   Chapters containing a detailed explanation of the software Optional Optional Required   Software Installation Not Required Required Not Required   Software Uninstallation Not Required Required Not Required   Best Practices Not Required Not Required Optional   Troubleshooting Not Required Not Required Optional   Appendix Not Required Optional Optional   Index Optional Required Required    </description>
+    </item>
+    
+    <item>
+      <title>Document Structure</title>
+      <link>https://writarium.github.io/working-with-documents/document-structure/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/working-with-documents/document-structure/</guid>
+      <description>An example document structure is outlined below.
+Introduction The introduction must cover a brief description about the product, its components, installation requirements – hardware and software, any other requirements, any supported devices or third-party tools, definitions of terms or acronyms used in the documentation, and the reference documents.
+Components of your Software Name This is the first heading after a brief description about the product. This section lists various components of the product.</description>
+    </item>
+    
+    <item>
+      <title>Style Guide Examples</title>
+      <link>https://writarium.github.io/style-guides/style-guide-examples/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/style-guides/style-guide-examples/</guid>
+      <description>Do not use words such as above or below to refer the reader to another section. Use the name of the specific subject/heading/figure/step in question. Search for instances of of the. Reword as and where you can for word economy.
+For example, The contents of the USERS table are used to… can be written as, The USERS table is used to….
+ Use the terms user and client to distinguish between the human user and the machine.</description>
+    </item>
+    
+    <item>
+      <title>Topic Elements</title>
+      <link>https://writarium.github.io/dita-main/topic-elements/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/topic-elements/</guid>
+      <description>Elements are shown schematically in a hierarchy. They are actually XML tag structures, properly nested and well formed.
+Each opening tag has a balancing close tag with a slash before the tag name.
+&amp;lt;topic id=&amp;quot;1&amp;quot;°&amp;gt; &amp;lt;title&amp;gt;My Topic&amp;lt;/title&amp;gt; &amp;lt;shortdesc&amp;gt;About my topic...&amp;lt;/shortdesc&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Some content&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Some more content&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/topic&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Topic Elements - Order and Number</title>
+      <link>https://writarium.github.io/dita-main/topic-elements-order-and-number/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/topic-elements-order-and-number/</guid>
+      <description>There is only one short description, one Prolog, and one set of related links.
+Body elements in the base topic can appear in any order with no limits on their numbers.
+Although there Is only one title for the topic as a whole, some body elements, like sections and examples, may have their own titles.
+Specialization of topics (into concept, task, and reference) puts additional limits on the allowed body elements, their numbers.</description>
+    </item>
+    
+    <item>
+      <title>Generic Topic</title>
+      <link>https://writarium.github.io/dita-main/generic-topic/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/generic-topic/</guid>
+      <description>An example of a generic topic is displayed below. Notice that it has all the popular elements (tags) - topicid, title, shortdesc, body, p, body, topic etc.
+All the elements (tags) used in a generic topic can be found in any of the concept, task, or reference topic.
+Generic Topic XML View &amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt; &amp;lt;!DOCTYPE topic PUBLIC &amp;quot;-//OASIS//DTD DITA Topic//EN&amp;quot; &amp;quot;topic.dtd&amp;quot;&amp;gt; &amp;lt;topic id=&amp;quot;MyTopicID_001&amp;quot;&amp;gt; &amp;lt;title&amp;gt;Title for my Generic Topic&amp;lt;/title&amp;gt; &amp;lt;shortdesc&amp;gt;A generic topic can be any type of topic - concept, task, or reference type.</description>
+    </item>
+    
+    <item>
+      <title>Concept Topic</title>
+      <link>https://writarium.github.io/dita-main/concept-topic/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/concept-topic/</guid>
+      <description>It covers the conceptual information and a description about the product. The root element is named concept and the body element is renamed conbody instead of body. As with the generic topic, any number of paragraphs, lists, or table tags may be used.
+None of the mentioned tags - paragraphs, lists, or table - are allowed after the first section or example. However, sections and examples can then appear in any order.</description>
+    </item>
+    
+    <item>
+      <title>Task Topic</title>
+      <link>https://writarium.github.io/dita-main/task-topic/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/task-topic/</guid>
+      <description>It covers the conceptual information and a description about the product. The root element is named task and the body element is renamed taskbody instead of body. As with the generic topic, any number of paragraphs, lists, or table tags may be used.  One task prerequisite and one context (both specializations of section) are followed by steps (a specialization of ordered fist). Each step must have a command, then optional info.</description>
+    </item>
+    
+    <item>
+      <title>Reference Topic</title>
+      <link>https://writarium.github.io/dita-main/reference-topic/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/reference-topic/</guid>
+      <description>The root element is named reference and the body element is renamed refbody instead of body. As with the generic topic, any number of paragraphs, lists, or table tags may be used.
+The refbody includes a properties element (a specialization of simpletable) which is a three-column table of property types.
+The element refsyn (reference syntax) is a specialization of the section element.
+Reference Topic XML View &amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt; &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>DITA Maps</title>
+      <link>https://writarium.github.io/dita-main/dita-maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/dita-maps/</guid>
+      <description>The following figure shows different DITA topics being mapped to a single DITA Map called mastermap.dita. When you change the content in the original DITA topic, say genereictopic.dita, and recompile the DITA map, all the changes will be reflected in the final generated PDF or WebHelp.
+The items on the left of the DITA topics are Topic Heads, which are similar to section/topic names when the PDF is generated.</description>
+    </item>
+    
+    <item>
+      <title>Organizing Topics with Maps</title>
+      <link>https://writarium.github.io/dita-main/organizing-topics-maps/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/organizing-topics-maps/</guid>
+      <description>The first DITA map organizes topics 1,2, and 3 into a web (HTML) deliverable.
+A second map organizes topics 1, 3, and 5 into a print (PDF) deliverable.
+A third map organizes all six topics into a Help deliverable.
+DITA provides reuse of topic content with single sourcing.
+Change the original topic content, recompile and all your delivarabhos are updated</description>
+    </item>
+    
+  </channel>
+</rss>

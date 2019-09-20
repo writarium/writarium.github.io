@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concept topic on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/concept-topic/</link>
+    <description>Recent content in concept topic on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/concept-topic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Concept Topic</title>
+      <link>https://writarium.github.io/dita-main/concept-topic/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/concept-topic/</guid>
+      <description>It covers the conceptual information and a description about the product. The root element is named concept and the body element is renamed conbody instead of body. As with the generic topic, any number of paragraphs, lists, or table tags may be used.
+None of the mentioned tags - paragraphs, lists, or table - are allowed after the first section or example. However, sections and examples can then appear in any order.</description>
+    </item>
+    
+  </channel>
+</rss>

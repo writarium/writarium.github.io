@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organizing topics with maps on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/organizing-topics-with-maps/</link>
+    <description>Recent content in organizing topics with maps on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/organizing-topics-with-maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organizing Topics with Maps</title>
+      <link>https://writarium.github.io/dita-main/organizing-topics-maps/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/organizing-topics-maps/</guid>
+      <description>The first DITA map organizes topics 1,2, and 3 into a web (HTML) deliverable.
+A second map organizes topics 1, 3, and 5 into a print (PDF) deliverable.
+A third map organizes all six topics into a Help deliverable.
+DITA provides reuse of topic content with single sourcing.
+Change the original topic content, recompile and all your delivarabhos are updated</description>
+    </item>
+    
+  </channel>
+</rss>

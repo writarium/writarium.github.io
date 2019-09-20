@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organizing on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/organizing/</link>
+    <description>Recent content in organizing on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/organizing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating and Planning your Documentation Work</title>
+      <link>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</guid>
+      <description>Tools and Software Use tools, such as Microsoft Project or Aceproject to record and track the progress of a project. This is usually task based where each document and its related activity, whether creation or review, is divided into various tasks.
+Estimations and Plannings  For a guide that is to be written from scratch, estimate 12 hours for a page and a half (with graphics). Include another two hours for reviews and fixes.</description>
+    </item>
+    
+  </channel>
+</rss>

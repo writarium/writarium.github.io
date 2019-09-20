@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DITA Maps on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/dita-maps/</link>
+    <description>Recent content in DITA Maps on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://writarium.github.io/categories/dita-maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DITA Maps</title>
+      <link>https://writarium.github.io/dita-main/dita-maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/dita-maps/</guid>
+      <description>The following figure shows different DITA topics being mapped to a single DITA Map called mastermap.dita. When you change the content in the original DITA topic, say genereictopic.dita, and recompile the DITA map, all the changes will be reflected in the final generated PDF or WebHelp.
+The items on the left of the DITA topics are Topic Heads, which are similar to section/topic names when the PDF is generated.</description>
+    </item>
+    
+  </channel>
+</rss>

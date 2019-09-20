@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>document types on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/document-types/</link>
+    <description>Recent content in document types on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/document-types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Document Types</title>
+      <link>https://writarium.github.io/working-with-documents/document-types/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/working-with-documents/document-types/</guid>
+      <description>Here are some of the types of documents or guides that you will write as a technical writer for a software application.
+Installation Guide An installation guide provid systematic instructions to take the product out of the box and install it for use. In addition to the installation instructions, an installation guide consists of prerequisites and other preparations you need to carry out before starting the installation process.
+If a specific application/product has different modules, include the installation procedures for all the modules in one installation guide only, unless specified otherwise.</description>
+    </item>
+    
+    <item>
+      <title>Document Type Elements</title>
+      <link>https://writarium.github.io/working-with-documents/document-types-elements/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/working-with-documents/document-types-elements/</guid>
+      <description>While it is necessary to include some sections in a particular type of document, you can take the liberty of not including some sections as long as the essential information is conveyed.
+For example, the following table provides a quick reference to the list of required and optional elements/sections in release notes, installation guide, and user guide.
+   Sections Release Notes Installation Guide User Guide     Introduction Required Required Required   New features Required Not Required Not Required   Known Issues Required Not Required Not Required   Resolved Issues Optional Not Required Not Required   Chapters containing a detailed explanation of the software Optional Optional Required   Software Installation Not Required Required Not Required   Software Uninstallation Not Required Required Not Required   Best Practices Not Required Not Required Optional   Troubleshooting Not Required Not Required Optional   Appendix Not Required Optional Optional   Index Optional Required Required    </description>
+    </item>
+    
+    <item>
+      <title>Document Structure</title>
+      <link>https://writarium.github.io/working-with-documents/document-structure/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/working-with-documents/document-structure/</guid>
+      <description>An example document structure is outlined below.
+Introduction The introduction must cover a brief description about the product, its components, installation requirements – hardware and software, any other requirements, any supported devices or third-party tools, definitions of terms or acronyms used in the documentation, and the reference documents.
+Components of your Software Name This is the first heading after a brief description about the product. This section lists various components of the product.</description>
+    </item>
+    
+  </channel>
+</rss>

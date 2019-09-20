@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introductions on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/introductions/</link>
+    <description>Recent content in introductions on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/introductions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating Overviews and Introductions</title>
+      <link>https://writarium.github.io/writing-guidelines/creating-overviews-and-introductions/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/creating-overviews-and-introductions/</guid>
+      <description>Placehoder for image
+ Overviews tell readers what pieces make up a certain product or area of technology and how those pieces relate to each other.
+ Keep overviews and introductions separate from task information, and label them with headings that clearly identify whether the topic is an overview or a task.
+ A reader may need to understand a specific concept to make the correct decision in carrying out steps of a task.</description>
+    </item>
+    
+  </channel>
+</rss>

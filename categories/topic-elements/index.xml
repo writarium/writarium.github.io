@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topic Elements on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/topic-elements/</link>
+    <description>Recent content in Topic Elements on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/topic-elements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Topic Elements</title>
+      <link>https://writarium.github.io/dita-main/topic-elements/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/topic-elements/</guid>
+      <description>Elements are shown schematically in a hierarchy. They are actually XML tag structures, properly nested and well formed.
+Each opening tag has a balancing close tag with a slash before the tag name.
+&amp;lt;topic id=&amp;quot;1&amp;quot;°&amp;gt; &amp;lt;title&amp;gt;My Topic&amp;lt;/title&amp;gt; &amp;lt;shortdesc&amp;gt;About my topic...&amp;lt;/shortdesc&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Some content&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;Some more content&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/topic&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Topic Elements - Order and Number</title>
+      <link>https://writarium.github.io/dita-main/topic-elements-order-and-number/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/topic-elements-order-and-number/</guid>
+      <description>There is only one short description, one Prolog, and one set of related links.
+Body elements in the base topic can appear in any order with no limits on their numbers.
+Although there Is only one title for the topic as a whole, some body elements, like sections and examples, may have their own titles.
+Specialization of topics (into concept, task, and reference) puts additional limits on the allowed body elements, their numbers.</description>
+    </item>
+    
+  </channel>
+</rss>

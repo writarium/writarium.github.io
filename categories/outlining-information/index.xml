@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outlining information on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/outlining-information/</link>
+    <description>Recent content in outlining information on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/outlining-information/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outlining Information</title>
+      <link>https://writarium.github.io/writing-guidelines/outlining-information/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/outlining-information/</guid>
+      <description>Instead, based on your understanding of the application, create an outline of your information as early as possible. Once you have your outline reviewed, you can identify what pieces are missing or out of order. Readers expect information to be predictably organized and predictably presented. In addition, it is important that information flows from one section to another and is not scattered.
+While writing, organize your information from the general to the specific and from the theoretical to the concrete.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reference topic on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/reference-topic/</link>
+    <description>Recent content in reference topic on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/reference-topic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reference Topic</title>
+      <link>https://writarium.github.io/dita-main/reference-topic/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/dita-main/reference-topic/</guid>
+      <description>The root element is named reference and the body element is renamed refbody instead of body. As with the generic topic, any number of paragraphs, lists, or table tags may be used.
+The refbody includes a properties element (a specialization of simpletable) which is a three-column table of property types.
+The element refsyn (reference syntax) is a specialization of the section element.
+Reference Topic XML View &amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt; &amp;lt;!</description>
+    </item>
+    
+  </channel>
+</rss>
