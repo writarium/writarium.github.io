@@ -1,0 +1,27 @@
+---
+title: Defining Document Sets
+linktitle: Defining Document Sets
+description: A documentation set includes one or more types of documents that a customer receives with a product.
+date: 2018-03-16
+categories: [classifying documents, document types]
+keywords: [classifying documents, document types]
+menu:
+  docs:
+    parent: "classifying-documents"
+    weight: 40
+weight: 40
+sections_weight: 40
+draft: false
+toc: true
+---
+For example, a typical documentation set for some software application includes Release notes, Installation Guide, and a User Guide.
+
+While releasing documents as part of a documentation set, you must:
+
+* Maintain consistency among documents. For example, the components of the Introduction section must be same in all the documents of a documentation set.
+
+* Ensure the version numbers match in all documents.
+
+* Use the latest template. All the documents in the set must use the same template.
+
+* Provide a reference to other documents in the set. This will help in structuring information and avoiding redundancy of information.

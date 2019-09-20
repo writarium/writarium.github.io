@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Style Guides on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/style-guides/</link>
+    <description>Recent content in Style Guides on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/style-guides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Style Guide Examples</title>
+      <link>https://writarium.github.io/style-guides/style-guide-examples/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/style-guides/style-guide-examples/</guid>
+      <description>Do not use words such as above or below to refer the reader to another section. Use the name of the specific subject/heading/figure/step in question. Search for instances of of the. Reword as and where you can for word economy.
+For example, The contents of the USERS table are used to… can be written as, The USERS table is used to….
+ Use the terms user and client to distinguish between the human user and the machine.</description>
+    </item>
+    
+  </channel>
+</rss>

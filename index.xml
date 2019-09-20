@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writarium - Resources for Technical Writers – </title>
+    <link>https://writarium.github.io/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://writarium.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://writarium.github.io/</link>
+    </image>
+    
+	<atom:link href="https://writarium.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+* **Introduction:** The introduction must cover a brief description about the product, its components, installation requirements – hardware and software, any other requirements, any supported devices or third-party tools, definitions of terms or acronyms used in the documentation, and the reference documents. 
+
+*  **Components of `your Software Name`:** It is the first heading after a brief description about the product. This section lists various components of the product.
+
+* **Document Scope and Audience:** This section describes the purpose and intended readers of the document.
+
+* **Installation Requirements:** This is a heading for identifying the hardware and software requirements for installation of the product.
+
+* **Hardware Requirements:** This is a subsection, which lists minimum hardware requirements for installation of the product on a computer.
+
+* **Software Requirements:** This is a subsection, which lists minimum software requirements for installation of the product on a computer.
+
+* **Other requirements:** You can cover any other requirements in this section. For example, Credential Manager Requirements.
+
+* **Terms, Acronyms, and Abbreviations :** Use a sorted table to define terms, acronyms, or abbreviations.
+
+* **Reference Documents:** This section lists all other guides, manuals, or help files that are part of documentation of the product.

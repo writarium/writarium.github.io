@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://writarium.github.io/zh/about/</loc>
+    <lastmod>2018-05-04T09:44:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/content-management/</loc>
+    <lastmod>2018-05-04T09:44:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/documentation/</loc>
+    <lastmod>2018-05-04T09:44:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/templates/</loc>
+    <lastmod>2018-05-04T09:44:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/templates/base/</loc>
+    <lastmod>2019-01-14T12:40:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/</loc>
+    <lastmod>2018-05-04T09:44:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://writarium.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://writarium.github.io/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/categories/</loc>
+    <lastmod>2019-01-14T12:40:10-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://writarium.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://writarium.github.io/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/categories/fundamentals/</loc>
+    <lastmod>2019-01-14T12:40:10-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://writarium.github.io/categories/fundamentals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://writarium.github.io/zh/categories/fundamentals/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/categories/templates/</loc>
+    <lastmod>2019-01-14T12:40:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/zh/news/</loc>
+    <lastmod>2018-05-04T09:44:59+02:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/zh/categories/</link>
+    <description>Recent content in Categories on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>fundamentals</title>
+      <link>https://writarium.github.io/zh/categories/fundamentals/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/zh/categories/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://writarium.github.io/zh/categories/templates/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/zh/categories/templates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

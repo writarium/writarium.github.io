@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guidelines for Writing Documents on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/writing-guidelines/</link>
+    <description>Recent content in Guidelines for Writing Documents on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/writing-guidelines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating and Planning your Documentation Work</title>
+      <link>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</guid>
+      <description>Tools and Software Use tools, such as Microsoft Project or Aceproject to record and track the progress of a project. This is usually task based where each document and its related activity, whether creation or review, is divided into various tasks.
+Estimations and Plannings  For a guide that is to be written from scratch, estimate 12 hours for a page and a half (with graphics). Include another two hours for reviews and fixes.</description>
+    </item>
+    
+    <item>
+      <title>Organizing Information</title>
+      <link>https://writarium.github.io/writing-guidelines/organizing-information/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/organizing-information/</guid>
+      <description>Most of the times, the documentation team receives a demo from either the development team or QA on the actual application. Once you have attended the demo, look for resources, online or printed, which describe the product features. Go through the Vision and Scope document, also called the Software Requirement Specification (SRS) or Functional Requirement Document (FRD) to understand the flow of the application and its intended actions.
+Decide beforehand the format of the final output that is, whether it will be a PDF or an Online Help file.</description>
+    </item>
+    
+    <item>
+      <title>Outlining Information</title>
+      <link>https://writarium.github.io/writing-guidelines/outlining-information/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/outlining-information/</guid>
+      <description>Instead, based on your understanding of the application, create an outline of your information as early as possible. Once you have your outline reviewed, you can identify what pieces are missing or out of order. Readers expect information to be predictably organized and predictably presented. In addition, it is important that information flows from one section to another and is not scattered.
+While writing, organize your information from the general to the specific and from the theoretical to the concrete.</description>
+    </item>
+    
+    <item>
+      <title>Creating Overviews and Introductions</title>
+      <link>https://writarium.github.io/writing-guidelines/creating-overviews-and-introductions/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/writing-guidelines/creating-overviews-and-introductions/</guid>
+      <description>Placehoder for image
+ Overviews tell readers what pieces make up a certain product or area of technology and how those pieces relate to each other.
+ Keep overviews and introductions separate from task information, and label them with headings that clearly identify whether the topic is an overview or a task.
+ A reader may need to understand a specific concept to make the correct decision in carrying out steps of a task.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    
+    <link rel="preload" href="https://writarium.github.io/fonts/muli-latin-200.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://writarium.github.io/fonts/muli-latin-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://writarium.github.io/fonts/muli-latin-800.woff2" as="font" type="font/woff2" crossorigin>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     
+    <title>Hugo 说明文档 | Writarium - Resources for Technical Writers</title>
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.58.2" />
+
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+    
+    
+      <link rel="stylesheet" href="/output/css/app.min.2ac9b5935f7ff7709fe13c2b042a4a2d49fa96fb508e3e8870019ee9b72cf329.css" integrity="sha256-Ksm1k19/93Cf4TwrBCpKLUn6lvtQjj6IcAGe6bcs8yk=" crossorigin="anonymous"> 
+          
+    
+
+
+     
+
+    
+  <script type="text/javascript" src="/output/js/app.5dec134b6552294f13bd6d4322ccd907d8639d9c368f000865c7c761c129ca70.js" integrity="sha256-XewTS2VSKU8TvW1DIszZB9hjnZw2jwAIZcfHYcEpynA=" crossorigin="anonymous" defer></script>
+      
+ 
+
+
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0594cb">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:title" content="Hugo 说明文档" />
+<meta property="og:description" content="Hugo is the world&#39;s fastest static website engine. It&#39;s written in Go (aka Golang) and developed by bep, spf13 and friends." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://writarium.github.io/zh/documentation/" />
+
+<meta property="og:image" content="https://writarium.github.io/images/gohugoio-card.png" />
+<meta property="article:published_time" content="2017-02-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2018-05-04T09:44:59+02:00" />
+<meta itemprop="name" content="Hugo 说明文档">
+<meta itemprop="description" content="Hugo is the world&#39;s fastest static website engine. It&#39;s written in Go (aka Golang) and developed by bep, spf13 and friends.">
+
+
+<meta itemprop="datePublished" content="2017-02-01T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2018-05-04T09:44:59&#43;02:00" />
+<meta itemprop="wordCount" content="71">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://writarium.github.io/images/gohugoio-card.png"/>
+
+<meta name="twitter:title" content="Hugo 说明文档"/>
+<meta name="twitter:description" content="Hugo is the world&#39;s fastest static website engine. It&#39;s written in Go (aka Golang) and developed by bep, spf13 and friends."/>
+<meta name="twitter:site" content="@GoHugoIO"/>
+
+
+
+          
+
+  </head>
+  <body class="ma0 sans-serif bg-primary-color-light">
+    
+<nav class="bg-primary-color-dark pv4 w-100" role="navigation">
+
+  <div class="center flex-ns flex-wrap items-center justify-start mw9">
+
+    <h1 class="dim f3 lh-solid ml0-ns mr0 mr4-l mv0 pl3 pl4-ns">
+      <a href="https://writarium.github.io" class="link white">
+         WRITARIUM
+      </a>
+    </h1>
+    <ul class="list ma0 pa0 dn dib-l">
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/zh/news/" class="dim link light-silver">
+            新闻
+              
+            
+            
+          </a>
+        </li>
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/zh/documentation/" class="dim link light-silver">
+            文档
+              
+            
+            
+          </a>
+        </li>
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="https://themes.gohugo.io/" class="dim link light-silver">
+            主题
+              
+            
+            
+          </a>
+        </li>
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="/zh/showcase/" class="dim link light-silver">
+            作品展示
+              
+            
+            
+          </a>
+        </li>
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="https://discourse.gohugo.io/" class="dim link light-silver">
+            社区
+              
+            
+            
+              <span class="pl1">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 32 32" class="fill-current v-base" aria-label="External Link">
+<path d="M25.152 16.576v5.696q0 2.144-1.504 3.648t-3.648 1.504h-14.848q-2.144 0-3.648-1.504t-1.504-3.648v-14.848q0-2.112 1.504-3.616t3.648-1.536h12.576q0.224 0 0.384 0.16t0.16 0.416v1.152q0 0.256-0.16 0.416t-0.384 0.16h-12.576q-1.184 0-2.016 0.832t-0.864 2.016v14.848q0 1.184 0.864 2.016t2.016 0.864h14.848q1.184 0 2.016-0.864t0.832-2.016v-5.696q0-0.256 0.16-0.416t0.416-0.16h1.152q0.256 0 0.416 0.16t0.16 0.416zM32 1.152v9.12q0 0.48-0.352 0.8t-0.8 0.352-0.8-0.352l-3.136-3.136-11.648 11.648q-0.16 0.192-0.416 0.192t-0.384-0.192l-2.048-2.048q-0.192-0.16-0.192-0.384t0.192-0.416l11.648-11.648-3.136-3.136q-0.352-0.352-0.352-0.8t0.352-0.8 0.8-0.352h9.12q0.48 0 0.8 0.352t0.352 0.8z"></path>
+</svg>
+
+              </span>
+            
+          </a>
+        </li>
+      
+        <li class="f5 dib mr4" role="menuitem">
+            
+          <a href="https://github.com/gohugoio/hugo" class="dim link light-silver">
+            GitHub
+              
+            
+            
+              <span class="pl1">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 32 32" class="fill-current v-base" aria-label="External Link">
+<path d="M25.152 16.576v5.696q0 2.144-1.504 3.648t-3.648 1.504h-14.848q-2.144 0-3.648-1.504t-1.504-3.648v-14.848q0-2.112 1.504-3.616t3.648-1.536h12.576q0.224 0 0.384 0.16t0.16 0.416v1.152q0 0.256-0.16 0.416t-0.384 0.16h-12.576q-1.184 0-2.016 0.832t-0.864 2.016v14.848q0 1.184 0.864 2.016t2.016 0.864h14.848q1.184 0 2.016-0.864t0.832-2.016v-5.696q0-0.256 0.16-0.416t0.416-0.16h1.152q0.256 0 0.416 0.16t0.16 0.416zM32 1.152v9.12q0 0.48-0.352 0.8t-0.8 0.352-0.8-0.352l-3.136-3.136-11.648 11.648q-0.16 0.192-0.416 0.192t-0.384-0.192l-2.048-2.048q-0.192-0.16-0.192-0.384t0.192-0.416l11.648-11.648-3.136-3.136q-0.352-0.352-0.352-0.8t0.352-0.8 0.8-0.352h9.12q0.48 0 0.8 0.352t0.352 0.8z"></path>
+</svg>
+
+              </span>
+            
+          </a>
+        </li>
+      
+    </ul>
+
+    <div class="db dib-ns pl3"><form id="site-search-form" action="" role="search">
+  <fieldset class="bn ma0 pa0">
+    <label class="clip" for="search-input">Search</label>
+    <input type="search" id="search-input" class="needs-js bg-left bn f5 input-reset lh-solid mt3 mt0-ns pl4 pv2 w5 white" placeholder="Search the Docs" name="search-input" value="" style="background: transparent url('/images/icon-search.png') no-repeat 0 8px /16px 16px;">
+  </fieldset>
+</form>
+</div>
+
+    <span class="absolute mt1 mt2-l pr3 right-0 top-0">
+<a class="github-button needs-js link primary-color-dark" href="https://github.com/writarium/writarium.github.io" data-size="large" data-show-count="false" aria-label="Star Writarium on GitHub">Star</a>
+</span>
+
+  </div>
+</nav>
+
+    
+    <main role="main" class="content-with-sidebar min-vh-100 pb7 pb0-ns">
+      
+
+  
+  <div class="w-100 ph4 pb5 pb6-ns pt1 mt4 pt3-ns">
+
+  <div class="flex">
+    <div class="dn db-l w-20">
+        
+<nav role="navigation">
+  <ul class="list pa0 nl2">
+    
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="javascript:void(0)" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".about">关于 Hugo</a>
+        <ul class="about desktopmenu animated fadeIn list pl0 bg-light-gray dn">
+          <li class="f6 fw4">
+            <a href="/zh/about/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+              概览
+            </a>
+          </li>
+        </ul>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="/zh/getting-started/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".getting-started">入门</a>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8 mb1 bb b--moon-gray">
+        <a href="/zh/themes/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".themes">主题</a>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="javascript:void(0)" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".content-management">内容管理</a>
+        <ul class="content-management desktopmenu animated fadeIn list pl0 bg-light-gray dn">
+          <li class="f6 fw4">
+            <a href="/zh/content-management/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+              内容管理概览
+            </a>
+          </li>
+        </ul>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="javascript:void(0)" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".templates">模板</a>
+        <ul class="templates desktopmenu animated fadeIn list pl0 bg-light-gray dn">
+          <li class="f6 fw4">
+            <a href="/zh/templates/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+              模板概览
+            </a>
+          </li>
+          <li class="f6 fw4">
+            <a href="/zh/templates/base/" class="db link hover-bg-gray hover-white pl3 pr2 pv2 black ">
+              Base 模板 and Blocks
+            </a>
+          </li>
+        </ul>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="/zh/functions/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".functions">函数</a>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="/zh/variables/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".variables">变量</a>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8 mb1 bb b--moon-gray">
+        <a href="/commands/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".commands">CLI</a>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="/zh/troubleshooting/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".troubleshooting">故障排除</a>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="/zh/tools/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".tools">工具</a>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8">
+        <a href="/zh/hosting-and-deployment/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".hosting-and-deployment">托管与部署</a>
+      </li>
+      
+      <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8 mb1 bb b--moon-gray">
+        <a href="/zh/contribute/" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 " data-target=".contribute">贡献</a>
+      </li>
+  </ul>
+</nav>
+
+    </div>
+
+    <div class="w-100 w-80-l ph0 ph4-l">
+      <article class="w-100 nested-copy-line-height nested-links nested-img">
+        <h1 class="primary-color-dark f2">
+          Hugo 说明文档
+        </h1>
+        <div class=" mid-gray f5 f4-l">
+          <p>Hugo 号称<strong>世界上最快的静态网站引擎</strong>。它是以 Go (即 Golang) 编程语言所写成，并由 <a href="https://github.com/bep">bep</a>、<a href="https://github.com/spf13">spf13</a> 和<a href="https://github.com/gohugoio/hugo/graphs/contributors">朋友们</a> 共同开发。</p>
+
+<p>下面是我们说明文档中最常用和实用的章节：</p>
+
+        </div>
+      </article>
+
+      
+
+      <div class="flex flex-wrap">
+        
+        <section class="flex-ns flex-wrap justify-between w-100">
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-10">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/writing-guidelines/estimating-planning-documentation/" class="link primary-color dim">Estimating and Planning your Documentation Work</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          To begin a documentation project, create a documentation plan. Include in the documentation plan estimates of the amount of work to be done (that is, the deliverables), by how many people, and in what period. Also, include an assessment of the risks, if any, which might affect the successful completion of the plan.
+        
+
+        <a href="/writing-guidelines/estimating-planning-documentation/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-20">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/zh/templates/base/" class="link primary-color dim">Base 模板 and Blocks</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The base and block constructs allow you to define the outer shell of your master templates (i.e., the chrome of the page).
+        
+
+        <a href="/zh/templates/base/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-20">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/writing-guidelines/organizing-information/" class="link primary-color dim">Organizing Information</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          Before starting the actual documentation, take time to work on the basics. Understand the software, its purpose, audience, features, and functionalities.
+        
+
+        <a href="/writing-guidelines/organizing-information/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-30">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/writing-guidelines/outlining-information/" class="link primary-color dim">Outlining Information</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          Once you set about creating the document, do not right away start describing the concepts in detail.
+        
+
+        <a href="/writing-guidelines/outlining-information/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-40">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/writing-guidelines/creating-overviews-and-introductions/" class="link primary-color dim">Creating Overviews and Introductions</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          Overviews and introductions often begin with a definition of the product, part of the product, or an area of technology. When writing overviews and introductions, consider the following guidelines.
+        
+
+        <a href="/writing-guidelines/creating-overviews-and-introductions/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-50">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/document-life-cycle/agile-document-life-cycle/" class="link primary-color dim">Document Life Cycle in Agile</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          Following are the steps of a typical documentation process of a project using agile.
+        
+
+        <a href="/document-life-cycle/agile-document-life-cycle/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-55">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/working-with-documents/document-types/" class="link primary-color dim">Document Types</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The diffrent types of documents and guides for a software application are Installation Guides, User Guides, Tutorial Guides, Troubleshooting Guides, Administration Guides, Release Notes, Online or WebHelp, FAQs, and White Papers.
+        
+
+        <a href="/working-with-documents/document-types/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-55">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/document-life-cycle/waterfall-document-life-cycle/" class="link primary-color dim">Document Life Cycle in a Waterfall project</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          Following are the steps of a typical documentation process of a project in a Waterfall model.
+        
+
+        <a href="/document-life-cycle/waterfall-document-life-cycle/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-60">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/working-with-documents/document-types-elements/" class="link primary-color dim">Document Type Elements</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The elements that go into a document depend on the type of document you are creating.
+        
+
+        <a href="/working-with-documents/document-types-elements/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-70">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/working-with-documents/document-structure/" class="link primary-color dim">Document Structure</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          To maintain consistency in the structure of all your documents, you must follow a set sequence. For example, purpose of the Introduction chapter is to give an overview of the product.
+        
+
+        <a href="/working-with-documents/document-structure/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-75">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/style-guides/style-guide-examples/" class="link primary-color dim">Style Guide Examples</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          Here are some examples from a typical style guide for technical documentation.
+        
+
+        <a href="/style-guides/style-guide-examples/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-78">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/dita-main/topic-elements/" class="link primary-color dim">Topic Elements</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The <code>&lt;topic&gt;</code> element is the top-level DITA element for a single-subject topic or article. .
+        
+
+        <a href="/dita-main/topic-elements/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-79">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/dita-main/topic-elements-order-and-number/" class="link primary-color dim">Topic Elements - Order and Number</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The topic structure limits where elements appear,in which order, how many are allowed, and how they are nested.
+        
+
+        <a href="/dita-main/topic-elements-order-and-number/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-80">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/dita-main/generic-topic/" class="link primary-color dim">Generic Topic</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The <strong>generic</strong> topic type does not belong to any of the concept, task, or reference topic. It can be used for any type of topic.
+        
+
+        <a href="/dita-main/generic-topic/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-81">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/dita-main/concept-topic/" class="link primary-color dim">Concept Topic</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The <strong><em>concept</em></strong> type specializes topic element names and topic structure.
+        
+
+        <a href="/dita-main/concept-topic/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-83">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/dita-main/task-topic/" class="link primary-color dim">Task Topic</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The task type topic specializes in tasks (procedures) that are to be performed by the user. These steps are followed by the result of the task performed.
+        
+
+        <a href="/dita-main/task-topic/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-85">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/dita-main/reference-topic/" class="link primary-color dim">Reference Topic</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          The reference type specializes topic element names and topic structure.
+        
+
+        <a href="/dita-main/reference-topic/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-88">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/dita-main/dita-maps/" class="link primary-color dim">DITA Maps</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          A DITA map organizes DITA topics into <code>topicrefs</code>, which are references to other DITA topics in the project, in a hierarchical manner for publishing to the web, print, help, and other deliverables.
+        
+
+        <a href="/dita-main/dita-maps/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+            <div class="relative flex-auto w-100 w-40-l mr3 mb3 bg-white ba b--moon-gray nested-copy-line-height weight-89">
+
+  <div class="bg-white mb2 pa3 pa4-l gray">
+    
+
+    <h1 class="near-black f3">
+      <a href="/dita-main/organizing-topics-maps/" class="link primary-color dim">Organizing Topics with Maps</a>
+    </h1>
+
+    <div class="lh-copy links">
+      
+          We start with six topics. The first DITA map organizes topics 1,2, and 3 into a web (HTML) deliverable.
+        
+
+        <a href="/dita-main/organizing-topics-maps/" class="f6 mt2 db link primary-color dim">
+          Read More &raquo;
+        </a>
+
+    </div>
+
+
+  </div>
+</div>
+
+          
+        </section>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+    </main>
+
+    <footer class="bg-primary-color-dark ph4-ns pt4 relative w-100" role="contentinfo">
+
+
+    <div class="f7 gray mb5 mb0-ns ph3 w-100"> 
+      <p class="dib mr4">The Hugo logos are copyright © Steve Francia 2013–2019.</p>
+      <p class="dib">The Hugo Gopher is based on an original work by Renée French.</p>
+    </div>
+
+    <img src="/images/gopher-side_color.svg" class="absolute-l bottom-0 dn db-l h4 right-0 z-999"/>
+
+    <div class="bg-primary-color-dark bottom-0 left-0 right-0 dn-l fixed pb3 ph3 w-100"><div  class="globalmenu mobilemenu pb3 dn">
+    
+
+<ul class="list hidden dib ph0 ma0 scrolling-touch tc">
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/news/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          新闻
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/documentation/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          文档
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="https://themes.gohugo.io/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          主题
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/showcase/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          作品展示
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="https://discourse.gohugo.io/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          社区
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="https://github.com/gohugoio/hugo" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+          GitHub
+        </a>
+    </li>
+  
+</ul>
+
+</div>
+<div  class="docsmenu mobilemenu pb3 dn">
+    
+
+<ul class="list dib ph0 ma0 scrolling-touch tc">
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/about/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          关于 Hugo
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/getting-started/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          入门
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
+        <a href="/zh/themes/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          主题
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/content-management/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          内容管理
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/templates/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          模板
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/functions/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          函数
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/variables/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          变量
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
+        <a href="/commands/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          CLI
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/troubleshooting/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          故障排除
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/tools/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          工具
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100">
+        <a href="/zh/hosting-and-deployment/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          托管与部署
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
+        <a href="/zh/contribute/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          贡献
+        </a>
+    </li>
+  
+</ul>
+
+</div>
+
+<div class="flex dn-l justify-between">
+  <button class="js-toggle flex-auto dib dn-l f6 tc db mt4-ns ph3 pv2 link mr2 white bg-primary-color-dark hover-bg-primary-color ba b--white-40 w-auto" data-target=".globalmenu">Menu</button>
+
+  <button class="js-toggle flex-auto dib dn-l f6 tc db mt4-ns ph3 pv2 link white bg-primary-color-dark hover-bg-primary-color ba b--white-40 w-auto" data-target=".docsmenu">Docs Menu</button>
+</div>
+</div>
+
+</footer>
+
+    
+
+  </body>
+</html>
