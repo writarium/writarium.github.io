@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Document Life Cycle (DLC) on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/document-life-cycle/</link>
+    <description>Recent content in Document Life Cycle (DLC) on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/document-life-cycle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Document Life Cycle in Agile</title>
+      <link>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</guid>
+      <description>The following steps are not for a guide that is to be written or created from scratch. It is for a product for which guide(s) already exist and the guide(s) for the product need to be updated for the new feature(s) (and/or bug fixes).
+ Technical Writer (TW) attends a Sprint planning with the Product Manager, development, and QA teams present TW identifies the items (user stories) that should be added to the guide and verifies this with the Product Manager, development, and QA teams during the planning (meeting) or follows up afterward.</description>
+    </item>
+    
+    <item>
+      <title>Document Life Cycle in a Waterfall project</title>
+      <link>https://writarium.github.io/document-life-cycle/waterfall-document-life-cycle/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/document-life-cycle/waterfall-document-life-cycle/</guid>
+      <description>Technical Writer (TW) receives a Vision and Scope document from QA/SME/Client. This could be in the form of a BRD, FRD, MRD, links to user stories and so on.
+ QA/SME/Client arrange for a demonstration for the TW, as soon as a stable build of the product is available.
+ TW creates the first draft of the required document. You must use Microsoft Word for creating source documents.
+ At the time of releasing the draft, TW runs the document against the Microsoft Word Release Checklist.</description>
+    </item>
+    
+  </channel>
+</rss>

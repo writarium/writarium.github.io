@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clobbering the Preferences on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/framemaker/</link>
+    <description>Recent content in Clobbering the Preferences on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/framemaker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dealing with High Density Displays</title>
+      <link>https://writarium.github.io/framemaker/configuration/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/framemaker/configuration/</guid>
+      <description>Module Config: Top level config.yaml&amp;nbsp;toml&amp;nbsp;json&amp;nbsp;module:noProxy:noneprivate:&amp;#39;*.*&amp;#39;proxy:direct[module] noProxy = &amp;#34;none&amp;#34; private = &amp;#34;*.*&amp;#34; proxy = &amp;#34;direct&amp;#34; { &amp;#34;module&amp;#34;: { &amp;#34;noProxy&amp;#34;: &amp;#34;none&amp;#34;, &amp;#34;private&amp;#34;: &amp;#34;*.*&amp;#34;, &amp;#34;proxy&amp;#34;: &amp;#34;direct&amp;#34; } }  proxy Defines the proxy server to use to download remote modules. Default is direct, which means &amp;ldquo;git clone&amp;rdquo; and similar. noProxy Comma separated glob list matching paths that should not use the proxy configured above.</description>
+    </item>
+    
+    <item>
+      <title>Fixing the Frozen Assets Window</title>
+      <link>https://writarium.github.io/framemaker/use-modules/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/framemaker/use-modules/</guid>
+      <description>Prerequisites  Most of the commands for Hugo Modules requires a newer version of Go installed (see https://golang.org/dl/) and the relevant VCS client (e.g. Git, see https://git-scm.com/downloads). If you have an &amp;ldquo;older&amp;rdquo; site running on Netlify, you may have to set GO_VERSION to 1.12 in your Environment settings.
+For more information about Go Modules, see:
+ https://github.com/golang/go/wiki/Modules https://blog.golang.org/using-go-modules    Initialize a New Module Use hugo mod init to initialize a new Hugo Module.</description>
+    </item>
+    
+    <item>
+      <title>Expanding Your Circle</title>
+      <link>https://writarium.github.io/framemaker/theme-components/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/framemaker/theme-components/</guid>
+      <description>This section contain information that may be outdated and is in the process of being rewritten.
+Since Hugo 0.42 a project can configure a theme as a composite of as many theme components you need:
+config.yaml&amp;nbsp;toml&amp;nbsp;json&amp;nbsp;theme:-my-shortcodes-base-theme-hydetheme = [&amp;#34;my-shortcodes&amp;#34;, &amp;#34;base-theme&amp;#34;, &amp;#34;hyde&amp;#34;] { &amp;#34;theme&amp;#34;: [ &amp;#34;my-shortcodes&amp;#34;, &amp;#34;base-theme&amp;#34;, &amp;#34;hyde&amp;#34; ] } You can even nest this, and have the theme component itself include theme components in its own config.</description>
+    </item>
+    
+  </channel>
+</rss>

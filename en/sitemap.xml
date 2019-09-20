@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://writarium.github.io/msword/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/captivate/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/framemaker/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/writing-guidelines/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/</loc>
+    <lastmod>2019-07-26T19:53:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://writarium.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://writarium.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/madcapflare/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/document-life-cycle/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/madcapflare/configuration/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/captivate/configuration/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/framemaker/configuration/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/configuration/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/working-with-documents/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/style-guides/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/captivate/use-modules/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/framemaker/use-modules/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/use-modules/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/madcapflare/use-modules/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/writing-guidelines/organizing-information/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/writing-guidelines/outlining-information/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/writing-guidelines/creating-overviews-and-introductions/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/captivate/theme-components/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/framemaker/theme-components/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/theme-components/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/madcapflare/theme-components/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/working-with-documents/document-types/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/document-life-cycle/waterfall-document-life-cycle/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/working-with-documents/document-types-elements/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/working-with-documents/document-structure/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/style-guides/style-guide-examples/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/topic-elements/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/topic-elements-order-and-number/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/generic-topic/</loc>
+    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/concept-topic/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/task-topic/</loc>
+    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/reference-topic/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/dita-maps/</loc>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/dita-main/organizing-topics-maps/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_check/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_check_ulimit/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_config/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_config_mounts/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_convert/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_convert_tojson/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_convert_totoml/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_convert_toyaml/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_deploy/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_env/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_gen/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_gen_autocomplete/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_gen_chromastyles/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_gen_doc/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_gen_man/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_import/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_import_jekyll/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_list/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_list_all/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_list_drafts/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_list_expired/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_list_future/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_mod/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_mod_clean/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_mod_get/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_mod_graph/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_mod_init/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_mod_tidy/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_mod_vendor/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_new/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_new_site/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_new_theme/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_server/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/commands/hugo_version/</loc>
+    <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://writarium.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://writarium.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/hugo-modules/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/classifying-documents/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/document-types/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/fundamentals/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://writarium.github.io/zh/categories/fundamentals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://writarium.github.io/categories/fundamentals/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/getting-started/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/style-guides/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/about-this-site/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/about/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/estimating/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/organizing/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/planning/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/introductions/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/outlining-information/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/overviews/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/reference-topic/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/concept-topic/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/documentation-life-cycle/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/organizing-topics-with-maps/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/waterfall/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/topic-elements/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/dita-maps/</loc>
+  </url>
+  
+</urlset>
