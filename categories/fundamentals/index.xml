@@ -200,11 +200,9 @@ Reference Topic XML View &amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://writarium.github.io/dita-main/organizing-topics-maps/</guid>
-      <description>The first DITA map organizes topics 1,2, and 3 into a web (HTML) deliverable.
-A second map organizes topics 1, 3, and 5 into a print (PDF) deliverable.
-A third map organizes all six topics into a Help deliverable.
-DITA provides reuse of topic content with single sourcing.
-Change the original topic content, recompile and all your delivarabhos are updated</description>
+      <description>The section is an example. It starts with six DITA topics, which are then distributed into different combinations to produce different types of guides or outputs.
+For example:
+ The first ditamap organizes topics 1,2, and 3 into a web (HTML) deliverable. The second ditamap organizes topics 1, 3, and 5 into an epub. The third map organizes all six topics into a PDF deliverable.  This way DITA provides you with a method of reusing topic contents from different sources and combine them in a number of way to produce different outputs single sourcing.</description>
     </item>
     
   </channel>
