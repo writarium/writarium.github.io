@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>camtasia on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/camtasia/</link>
+    <description>Recent content in camtasia on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/camtasia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Choosing the editing dimensions</title>
+      <link>https://writarium.github.io/camtasia/choosing-editing-dimensions/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/camtasia/choosing-editing-dimensions/</guid>
+      <description>https://youtu.be/yfR12QedrrA</description>
+    </item>
+    
+    <item>
+      <title>Importing Powerpoint slides</title>
+      <link>https://writarium.github.io/camtasia/importing-powerpoint-slides/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/camtasia/importing-powerpoint-slides/</guid>
+      <description>https://youtu.be/Z7xS-cRceho</description>
+    </item>
+    
+    <item>
+      <title>Panning and Zooming</title>
+      <link>https://writarium.github.io/camtasia/panning-and-zooming/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/camtasia/panning-and-zooming/</guid>
+      <description>https://youtu.be/sbQ2E9uV-po?t=26</description>
+    </item>
+    
+    <item>
+      <title>Creating Quizzes</title>
+      <link>https://writarium.github.io/camtasia/creating-quizzes/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/camtasia/creating-quizzes/</guid>
+      <description>For Camtasia Studio 8.1
+  </description>
+    </item>
+    
+  </channel>
+</rss>

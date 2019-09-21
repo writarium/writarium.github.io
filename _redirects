@@ -8,6 +8,7 @@
 /themes/                           	/framemaker/
 /overview/introduction/            	/dita-main/
 /overview/introduction/            	/writing-guidelines/
+camtasia                           	/camtasia/
 /themes/overview/                  	/madcapflare/
 /themes/                           	/madcapflare/
 document                           	/document-life-cycle/
@@ -23,6 +24,7 @@ cycle                              	/document-life-cycle/
 /themes/usage/                     	/msword/use-modules/
 /themes/installing/                	/msword/use-modules/
 /installing-and-using-themes/      	/msword/use-modules/
+/importing powerpoint/camtasia/    	/camtasia/importing-powerpoint-slides/
 /themes/usage/                     	/madcapflare/use-modules/
 /themes/installing/                	/madcapflare/use-modules/
 /installing-and-using-themes/      	/madcapflare/use-modules/
@@ -30,6 +32,8 @@ cycle                              	/document-life-cycle/
 /extras/livereload/                	/writing-guidelines/organizing-information/
 /doc/usage/                        	/writing-guidelines/organizing-information/
 /usage/                            	/writing-guidelines/organizing-information/
+/panning/zooming/camtasia/         	/camtasia/panning-and-zooming/
+quizzes/camtasia/                  	/camtasia/creating-quizzes/
 document                           	/document-life-cycle/agile-document-life-cycle/
 life                               	/document-life-cycle/agile-document-life-cycle/
 cycle                              	/document-life-cycle/agile-document-life-cycle/

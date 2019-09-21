@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://writarium.github.io/camtasia/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://writarium.github.io/madcapflare/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
@@ -50,6 +55,11 @@
   <url>
     <loc>https://writarium.github.io/document-life-cycle/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/camtasia/choosing-editing-dimensions/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,6 +113,11 @@
   </url>
   
   <url>
+    <loc>https://writarium.github.io/camtasia/importing-powerpoint-slides/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://writarium.github.io/madcapflare/use-modules/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
@@ -118,8 +133,18 @@
   </url>
   
   <url>
+    <loc>https://writarium.github.io/camtasia/panning-and-zooming/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://writarium.github.io/writing-guidelines/creating-overviews-and-introductions/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/camtasia/creating-quizzes/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -390,6 +415,11 @@
   <url>
     <loc>https://writarium.github.io/commands/hugo_version/</loc>
     <lastmod>2019-07-31T12:11:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/camtasia/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
