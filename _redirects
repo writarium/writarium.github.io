@@ -13,12 +13,12 @@ document                           	/document-life-cycle/
 life                               	/document-life-cycle/
 cycle                              	/document-life-cycle/
 /project estimation/               	/writing-guidelines/estimating-planning-documentation/
+/themes/usage/                     	/msword/components-of-a-document/
+/themes/installing/                	/msword/components-of-a-document/
+/installing-and-using-themes/      	/msword/components-of-a-document/
 /themes/usage/                     	/framemaker/use-modules/
 /themes/installing/                	/framemaker/use-modules/
 /installing-and-using-themes/      	/framemaker/use-modules/
-/themes/usage/                     	/msword/use-modules/
-/themes/installing/                	/msword/use-modules/
-/installing-and-using-themes/      	/msword/use-modules/
 /importing powerpoint/camtasia/    	/camtasia/importing-powerpoint-slides/
 /themes/usage/                     	/madcapflare/use-modules/
 /themes/installing/                	/madcapflare/use-modules/
@@ -33,10 +33,10 @@ document                           	/document-life-cycle/agile-document-life-cyc
 life                               	/document-life-cycle/agile-document-life-cycle/
 cycle                              	/document-life-cycle/agile-document-life-cycle/
 agile                              	/document-life-cycle/agile-document-life-cycle/
+/themes/customize/                 	/msword/common-word-document-tasks/
+/themes/customizing/               	/msword/common-word-document-tasks/
 /themes/customize/                 	/framemaker/theme-components/
 /themes/customizing/               	/framemaker/theme-components/
-/themes/customize/                 	/msword/theme-components/
-/themes/customizing/               	/msword/theme-components/
 /themes/customize/                 	/madcapflare/theme-components/
 /themes/customizing/               	/madcapflare/theme-components/
 /overview/source-directory/        	/working-with-documents/document-types/

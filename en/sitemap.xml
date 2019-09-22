@@ -73,8 +73,8 @@
   </url>
   
   <url>
-    <loc>https://writarium.github.io/msword/configuration/</loc>
-    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+    <loc>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,12 +93,12 @@
   </url>
   
   <url>
-    <loc>https://writarium.github.io/framemaker/use-modules/</loc>
-    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+    <loc>https://writarium.github.io/msword/components-of-a-document/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://writarium.github.io/msword/use-modules/</loc>
+    <loc>https://writarium.github.io/framemaker/use-modules/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
   
@@ -143,12 +143,12 @@
   </url>
   
   <url>
-    <loc>https://writarium.github.io/framemaker/theme-components/</loc>
-    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+    <loc>https://writarium.github.io/msword/common-word-document-tasks/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://writarium.github.io/msword/theme-components/</loc>
+    <loc>https://writarium.github.io/framemaker/theme-components/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
   
@@ -423,21 +423,6 @@
   </url>
   
   <url>
-    <loc>https://writarium.github.io/categories/hugo-modules/</loc>
-    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/categories/classifying-documents/</loc>
-    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/categories/document-types/</loc>
-    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://writarium.github.io/categories/fundamentals/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
     <xhtml:link
@@ -454,6 +439,26 @@
   
   <url>
     <loc>https://writarium.github.io/categories/getting-started/</loc>
+    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/hugo-modules/</loc>
+    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/msword/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/classifying-documents/</loc>
+    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/document-types/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
   

@@ -21,11 +21,38 @@
     </item>
     
     <item>
+      <title>fundamentals</title>
+      <link>https://writarium.github.io/categories/fundamentals/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/categories/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>getting started</title>
+      <link>https://writarium.github.io/categories/getting-started/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/categories/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hugo modules</title>
       <link>https://writarium.github.io/categories/hugo-modules/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://writarium.github.io/categories/hugo-modules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>msword</title>
+      <link>https://writarium.github.io/categories/msword/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/categories/msword/</guid>
       <description></description>
     </item>
     
@@ -44,24 +71,6 @@
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://writarium.github.io/categories/document-types/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fundamentals</title>
-      <link>https://writarium.github.io/categories/fundamentals/</link>
-      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/categories/fundamentals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>getting started</title>
-      <link>https://writarium.github.io/categories/getting-started/</link>
-      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/categories/getting-started/</guid>
       <description></description>
     </item>
     
