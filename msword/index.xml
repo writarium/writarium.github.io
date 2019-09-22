@@ -21,21 +21,21 @@
     </item>
     
     <item>
-      <title>Components of a Document</title>
-      <link>https://writarium.github.io/msword/components-of-a-document/</link>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/components-of-a-document/</guid>
-      <description> Cover or Title Page Company Logo Specifying the Document Title Release Month and Year Adding the Copyright Page Creating and Inserting a Table of Contents </description>
-    </item>
-    
-    <item>
       <title>Common Word Document Tasks</title>
       <link>https://writarium.github.io/msword/common-word-document-tasks/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://writarium.github.io/msword/common-word-document-tasks/</guid>
       <description>Inserting a Blank Page Numbering Pages Formatting Headers and Footers Inserting Watermarks Structuring Information using Headings Headings and their Hierarchical Order Using Body Styles Inserting and Preventing Page Breaks Preventing a page break across a table row Starting Chapters on New Pages Preventing Paragraphs to Split Across Pages Prevent the paragraphs from splitting across pages Organizing Information in Lists Numbered Styles Bulleted and BodyBulletedLast Styles ##Tables, Graphics, and Indexes</description>
+    </item>
+    
+    <item>
+      <title>Components of a Document</title>
+      <link>https://writarium.github.io/msword/components-of-a-document/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/msword/components-of-a-document/</guid>
+      <description> Cover or Title Page Company Logo Specifying the Document Title Release Month and Year Adding the Copyright Page Creating and Inserting a Table of Contents </description>
     </item>
     
   </channel>

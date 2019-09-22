@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://writarium.github.io/working-with-documents/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
@@ -90,11 +85,6 @@
   <url>
     <loc>https://writarium.github.io/style-guides/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/components-of-a-document/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,13 +128,13 @@
   </url>
   
   <url>
-    <loc>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</loc>
-    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+    <loc>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://writarium.github.io/msword/common-word-document-tasks/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <loc>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</loc>
+    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
   
   <url>
@@ -170,6 +160,16 @@
   <url>
     <loc>https://writarium.github.io/working-with-documents/document-types-elements/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/common-word-document-tasks/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/components-of-a-document/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Dividing Huge Word Documents into Small Chunks (Sub Documents)</title>
-      <link>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</link>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</guid>
-      <description> Creating Master Index and Table of Contents for a Large Document Splitting Documents into Separate Files Creating a Sub-Document Creating Master Indexes Prepare for and create a master Index## Creating Master Table of Contents Preparing for and create master a TOC </description>
-    </item>
-    
-    <item>
       <title>Estimating and Planning your Documentation Work</title>
       <link>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -28,15 +19,6 @@
       <guid>https://writarium.github.io/writing-guidelines/estimating-planning-documentation/</guid>
       <description>Tools and Software Use tools, such as Microsoft Project or Aceproject to record and track the progress of a project. This is usually task based where each document and its related activity, whether creation or review, is divided into various tasks.
 Estimations and Plannings  For a guide that is to be written from scratch, estimate 12 hours for a page and a half (with graphics). Include another two hours for reviews and fixes.</description>
-    </item>
-    
-    <item>
-      <title>Components of a Document</title>
-      <link>https://writarium.github.io/msword/components-of-a-document/</link>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/components-of-a-document/</guid>
-      <description> Cover or Title Page Company Logo Specifying the Document Title Release Month and Year Adding the Copyright Page Creating and Inserting a Table of Contents </description>
     </item>
     
     <item>
@@ -72,6 +54,15 @@ While writing, organize your information from the general to the specific and fr
     </item>
     
     <item>
+      <title>Dividing Huge Word Documents into Small Chunks (Sub Documents)</title>
+      <link>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</guid>
+      <description> Creating Master Index and Table of Contents for a Large Document Splitting Documents into Separate Files Creating a Sub-Document Creating Master Indexes Prepare for and create a master Index## Creating Master Table of Contents Preparing for and create master a TOC </description>
+    </item>
+    
+    <item>
       <title>Document Life Cycle in Agile</title>
       <link>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
@@ -79,15 +70,6 @@ While writing, organize your information from the general to the specific and fr
       <guid>https://writarium.github.io/document-life-cycle/agile-document-life-cycle/</guid>
       <description>The following steps are not for a guide that is to be written or created from scratch. It is for a product for which guide(s) already exist and the guide(s) for the product need to be updated for the new feature(s) (and/or bug fixes).
  Technical Writer (TW) attends a Sprint planning with the Product Manager, development, and QA teams present TW identifies the items (user stories) that should be added to the guide and verifies this with the Product Manager, development, and QA teams during the planning (meeting) or follows up afterward.</description>
-    </item>
-    
-    <item>
-      <title>Common Word Document Tasks</title>
-      <link>https://writarium.github.io/msword/common-word-document-tasks/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/common-word-document-tasks/</guid>
-      <description>Inserting a Blank Page Numbering Pages Formatting Headers and Footers Inserting Watermarks Structuring Information using Headings Headings and their Hierarchical Order Using Body Styles Inserting and Preventing Page Breaks Preventing a page break across a table row Starting Chapters on New Pages Preventing Paragraphs to Split Across Pages Prevent the paragraphs from splitting across pages Organizing Information in Lists Numbered Styles Bulleted and BodyBulletedLast Styles ##Tables, Graphics, and Indexes</description>
     </item>
     
     <item>
@@ -122,6 +104,24 @@ If a specific application/product has different modules, include the installatio
       <description>While it is necessary to include some sections in a particular type of document, you can take the liberty of not including some sections as long as the essential information is conveyed.
 For example, the following table provides a quick reference to the list of required and optional elements/sections in release notes, installation guide, and user guide.
    Sections Release Notes Installation Guide User Guide     Introduction Required Required Required   New features Required Not Required Not Required   Known Issues Required Not Required Not Required   Resolved Issues Optional Not Required Not Required   Chapters containing a detailed explanation of the software Optional Optional Required   Software Installation Not Required Required Not Required   Software Uninstallation Not Required Required Not Required   Best Practices Not Required Not Required Optional   Troubleshooting Not Required Not Required Optional   Appendix Not Required Optional Optional   Index Optional Required Required    </description>
+    </item>
+    
+    <item>
+      <title>Common Word Document Tasks</title>
+      <link>https://writarium.github.io/msword/common-word-document-tasks/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/msword/common-word-document-tasks/</guid>
+      <description>Inserting a Blank Page Numbering Pages Formatting Headers and Footers Inserting Watermarks Structuring Information using Headings Headings and their Hierarchical Order Using Body Styles Inserting and Preventing Page Breaks Preventing a page break across a table row Starting Chapters on New Pages Preventing Paragraphs to Split Across Pages Prevent the paragraphs from splitting across pages Organizing Information in Lists Numbered Styles Bulleted and BodyBulletedLast Styles ##Tables, Graphics, and Indexes</description>
+    </item>
+    
+    <item>
+      <title>Components of a Document</title>
+      <link>https://writarium.github.io/msword/components-of-a-document/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/msword/components-of-a-document/</guid>
+      <description> Cover or Title Page Company Logo Specifying the Document Title Release Month and Year Adding the Copyright Page Creating and Inserting a Table of Contents </description>
     </item>
     
     <item>
