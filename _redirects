@@ -1,9 +1,9 @@
 # Netlify redirects. See https://www.netlify.com/docs/redirects/
 
-/themes/overview/                  	/msword/
-/themes/                           	/msword/
 /themes/overview/                  	/framemaker/
 /themes/                           	/framemaker/
+/themes/overview/                  	/msword/
+/themes/                           	/msword/
 /overview/introduction/            	/dita-main/
 /overview/introduction/            	/writing-guidelines/
 camtasia                           	/camtasia/
