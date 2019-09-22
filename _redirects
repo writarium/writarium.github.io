@@ -41,9 +41,7 @@ cycle                              	/document-life-cycle/waterfall-document-life
 agile                              	/document-life-cycle/waterfall-document-life-cycle/
 /themes/customize/                 	/msword/common-word-document-tasks/
 /themes/customizing/               	/msword/common-word-document-tasks/
-/themes/usage/                     	/msword/components-of-a-document/
-/themes/installing/                	/msword/components-of-a-document/
-/installing-and-using-themes/      	/msword/components-of-a-document/
+/word/elements/document/           	/msword/components-of-a-document/
 /quickstart/                       	/dita-main/topic-elements/
 /overview/quickstart/              	/dita-main/topic-elements/
 /overview/source-directory/        	/dita-main/generic-topic/
