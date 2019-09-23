@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Components of a Document on Writarium - Resources for Technical Writers</title>
+    <title>Microsoft Word in Technical Writing on Writarium - Resources for Technical Writers</title>
     <link>https://writarium.github.io/msword/</link>
-    <description>Recent content in Components of a Document on Writarium - Resources for Technical Writers</description>
+    <description>Recent content in Microsoft Word in Technical Writing on Writarium - Resources for Technical Writers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
@@ -12,21 +12,14 @@
     
     
     <item>
-      <title>All Topics</title>
-      <link>https://writarium.github.io/msword/topics/test_index/</link>
+      <title>Working with Covers, Titles, Logos, Copyright and Table of Contents</title>
+      <link>https://writarium.github.io/msword/working-with-cover-logo-title-toc/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://writarium.github.io/msword/topics/test_index/</guid>
-      <description>The following tools will be covered in this section.</description>
-    </item>
-    
-    <item>
-      <title>Dividing Huge Word Documents into Small Chunks (Sub Documents)</title>
-      <link>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</link>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</guid>
-      <description> Creating Master Index and Table of Contents for a Large Document Splitting Documents into Separate Files Creating a Sub-Document Creating Master Indexes Prepare for and create a master Index## Creating Master Table of Contents Preparing for and create master a TOC </description>
+      <guid>https://writarium.github.io/msword/working-with-cover-logo-title-toc/</guid>
+      <description>Cover or Title Page All documents have a cover or a title page. It contains the logo, the title of the document, and the release or publication month and year. This is shown in the following figure.
+Note: The cover or title page does not have a header or footer.
+Working with Logos All documents must contain a logo wherever applicable. These logos are designed in different sizes and their usage depends on how and where they are used in the document.</description>
     </item>
     
     <item>
@@ -39,358 +32,12 @@
     </item>
     
     <item>
-      <title>Elements of a Document</title>
-      <link>https://writarium.github.io/msword/components-of-a-document/</link>
+      <title>Dividing Huge Word Documents into Small Chunks (Sub Documents)</title>
+      <link>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://writarium.github.io/msword/components-of-a-document/</guid>
-      <description> Cover or Title Page Company Logo Specifying the Document Title Release Month and Year Adding the Copyright Page Creating and Inserting a Table of Contents </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/cover-or-title-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/cover-or-title-page/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/toc/</guid>
-      <description>Components of a Document
-Cover or Title Page Company Logo Specifying the Document Title Release Month and Year Adding the Copyright Page Creating and Inserting a Table of Contents Inserting items in a Document
-Inserting a Blank Page Inserting Page Breaks Preventing Page Breaks
-Inserting Page Numbers Formatting Headers and Footers Inserting Watermarks Structuring Information using Headings
-Heading 1 Styles Heading 2 Styles Heading 3 Styles Heading 4 Styles Heading 5 Styles Headings and their Hierarchical Order Using Body Styles Preventing a page break across a table row Starting Chapters on New Pages Preventing Paragraphs to Split Across Pages Prevent the paragraphs from splitting across pages Organizing Information in Lists Numbered Styles Bulleted and BodyBulletedLast Styles Tables, Graphics, and Indexes Adding Tables Adding Graphics Creating an Index Inserting Index Markers Building an Index Updating Indexes Troubleshooting Indexes Dividing Huge Word Documents into Small Chunks (Sub Documents) ##Creating Master Index and Table of Contents for a Large Document ###Splitting Documents into Separate Files ###Creating a Sub-Document ###Creating Master Indexes ###Prepare for and create a master Index## ###Creating Master Table of Contents ###Preparing for and create master a TOC</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/adding-graphics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/adding-graphics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/adding-tables/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/adding-tables/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/adding-the-copyright-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/adding-the-copyright-page/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/building-an-index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/building-an-index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/bulleted-and-bodybulletedlast-styles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/bulleted-and-bodybulletedlast-styles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/company-logo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/company-logo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/cover-or-title-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/cover-or-title-page/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/creating-a-sub-document/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/creating-a-sub-document/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/creating-an-index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/creating-an-index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/creating-and-inserting-a-table-of-contents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/creating-and-inserting-a-table-of-contents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/creating-master-index-and-table-of-contents-for-a-large-document/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/creating-master-index-and-table-of-contents-for-a-large-document/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/creating-master-indexes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/creating-master-indexes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/creating-master-table-of-contents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/creating-master-table-of-contents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/dividing-huge-word-documents-into-small-chunks-sub-documents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/dividing-huge-word-documents-into-small-chunks-sub-documents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/formatting-headers-and-footers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/formatting-headers-and-footers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/headings-and-their-hierarchical-order/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/headings-and-their-hierarchical-order/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/inserting-a-blank-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/inserting-a-blank-page/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/inserting-and-preventing-page-breaks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/inserting-and-preventing-page-breaks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/inserting-index-markers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/inserting-index-markers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/inserting-watermarks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/inserting-watermarks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/numbered-styles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/numbered-styles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/numbering-pages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/numbering-pages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/organizing-information-in-lists/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/organizing-information-in-lists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/prepare-for-and-create-a-master-index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/prepare-for-and-create-a-master-index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/preparing-for-and-create-master-a-toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/preparing-for-and-create-master-a-toc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/prevent-the-paragraphs-from-splitting-across-pages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/prevent-the-paragraphs-from-splitting-across-pages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/preventing-a-page-break-across-a-table-row/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/preventing-a-page-break-across-a-table-row/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/release-month-and-year/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/release-month-and-year/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/specifying-the-document-title/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/specifying-the-document-title/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/splitting-documents-into-separate-files/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/splitting-documents-into-separate-files/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/starting-chapters-on-new-pages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/starting-chapters-on-new-pages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/structuring-information-using-headings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/structuring-information-using-headings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/tables-graphics-and-indexes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/tables-graphics-and-indexes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/troubleshooting-indexes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/troubleshooting-indexes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/updating-indexes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/updating-indexes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://writarium.github.io/msword/topics/using-body-styles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/topics/using-body-styles/</guid>
-      <description></description>
+      <guid>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</guid>
+      <description> Creating Master Index and Table of Contents for a Large Document Splitting Documents into Separate Files Creating a Sub-Document Creating Master Indexes Prepare for and create a master Index## Creating Master Table of Contents Preparing for and create master a TOC </description>
     </item>
     
   </channel>

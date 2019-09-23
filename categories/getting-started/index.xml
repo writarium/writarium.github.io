@@ -22,6 +22,15 @@ Estimations and Plannings  For a guide that is to be written from scratch, estim
     </item>
     
     <item>
+      <title>Common Word Document Tasks</title>
+      <link>https://writarium.github.io/msword/common-word-document-tasks/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/msword/common-word-document-tasks/</guid>
+      <description> Inserting a Blank Page Numbering Pages Formatting Headers and Footers Inserting Watermarks Structuring Information using Headings Headings and their Hierarchical Order Using Body Styles Inserting and Preventing Page Breaks Preventing a page break across a table row Starting Chapters on New Pages Preventing Paragraphs to Split Across Pages Prevent the paragraphs from splitting across pages Organizing Information in Lists Numbered Styles Bulleted and BodyBulletedLast Styles Tables, Graphics, and Indexes Adding Tables Adding Graphics Creating an Index Inserting Index Markers Building an Index Updating Indexes Troubleshooting Indexes </description>
+    </item>
+    
+    <item>
       <title>Organizing Information</title>
       <link>https://writarium.github.io/writing-guidelines/organizing-information/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
@@ -29,6 +38,15 @@ Estimations and Plannings  For a guide that is to be written from scratch, estim
       <guid>https://writarium.github.io/writing-guidelines/organizing-information/</guid>
       <description>Most of the times, the documentation team receives a demo from either the development team or QA on the actual application. Once you have attended the demo, look for resources, online or printed, which describe the product features. Go through the Vision and Scope document, also called the Software Requirement Specification (SRS) or Functional Requirement Document (FRD) to understand the flow of the application and its intended actions.
 Decide beforehand the format of the final output that is, whether it will be a PDF or an Online Help file.</description>
+    </item>
+    
+    <item>
+      <title>Dividing Huge Word Documents into Small Chunks (Sub Documents)</title>
+      <link>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</guid>
+      <description> Creating Master Index and Table of Contents for a Large Document Splitting Documents into Separate Files Creating a Sub-Document Creating Master Indexes Prepare for and create a master Index## Creating Master Table of Contents Preparing for and create master a TOC </description>
     </item>
     
     <item>
@@ -51,15 +69,6 @@ While writing, organize your information from the general to the specific and fr
  Overviews tell readers what pieces make up a certain product or area of technology and how those pieces relate to each other.
  Keep overviews and introductions separate from task information, and label them with headings that clearly identify whether the topic is an overview or a task.
  A reader may need to understand a specific concept to make the correct decision in carrying out steps of a task.</description>
-    </item>
-    
-    <item>
-      <title>Dividing Huge Word Documents into Small Chunks (Sub Documents)</title>
-      <link>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</link>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</guid>
-      <description> Creating Master Index and Table of Contents for a Large Document Splitting Documents into Separate Files Creating a Sub-Document Creating Master Indexes Prepare for and create a master Index## Creating Master Table of Contents Preparing for and create master a TOC </description>
     </item>
     
     <item>
@@ -104,24 +113,6 @@ If a specific application/product has different modules, include the installatio
       <description>While it is necessary to include some sections in a particular type of document, you can take the liberty of not including some sections as long as the essential information is conveyed.
 For example, the following table provides a quick reference to the list of required and optional elements/sections in release notes, installation guide, and user guide.
    Sections Release Notes Installation Guide User Guide     Introduction Required Required Required   New features Required Not Required Not Required   Known Issues Required Not Required Not Required   Resolved Issues Optional Not Required Not Required   Chapters containing a detailed explanation of the software Optional Optional Required   Software Installation Not Required Required Not Required   Software Uninstallation Not Required Required Not Required   Best Practices Not Required Not Required Optional   Troubleshooting Not Required Not Required Optional   Appendix Not Required Optional Optional   Index Optional Required Required    </description>
-    </item>
-    
-    <item>
-      <title>Common Word Document Tasks</title>
-      <link>https://writarium.github.io/msword/common-word-document-tasks/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/common-word-document-tasks/</guid>
-      <description> Inserting a Blank Page Numbering Pages Formatting Headers and Footers Inserting Watermarks Structuring Information using Headings Headings and their Hierarchical Order Using Body Styles Inserting and Preventing Page Breaks Preventing a page break across a table row Starting Chapters on New Pages Preventing Paragraphs to Split Across Pages Prevent the paragraphs from splitting across pages Organizing Information in Lists Numbered Styles Bulleted and BodyBulletedLast Styles Tables, Graphics, and Indexes Adding Tables Adding Graphics Creating an Index Inserting Index Markers Building an Index Updating Indexes Troubleshooting Indexes </description>
-    </item>
-    
-    <item>
-      <title>Elements of a Document</title>
-      <link>https://writarium.github.io/msword/components-of-a-document/</link>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://writarium.github.io/msword/components-of-a-document/</guid>
-      <description> Cover or Title Page Company Logo Specifying the Document Title Release Month and Year Adding the Copyright Page Creating and Inserting a Table of Contents </description>
     </item>
     
     <item>

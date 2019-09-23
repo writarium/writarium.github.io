@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>copyright and table of contents on Writarium - Resources for Technical Writers</title>
+    <link>https://writarium.github.io/categories/copyright-and-table-of-contents/</link>
+    <description>Recent content in copyright and table of contents on Writarium - Resources for Technical Writers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://writarium.github.io/categories/copyright-and-table-of-contents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working with Covers, Titles, Logos, Copyright and Table of Contents</title>
+      <link>https://writarium.github.io/msword/working-with-cover-logo-title-toc/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://writarium.github.io/msword/working-with-cover-logo-title-toc/</guid>
+      <description>Cover or Title Page All documents have a cover or a title page. It contains the logo, the title of the document, and the release or publication month and year. This is shown in the following figure.
+Note: The cover or title page does not have a header or footer.
+Working with Logos All documents must contain a logo wherever applicable. These logos are designed in different sizes and their usage depends on how and where they are used in the document.</description>
+    </item>
+    
+  </channel>
+</rss>

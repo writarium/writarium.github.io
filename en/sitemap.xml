@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://writarium.github.io/msword/topics/test_index/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://writarium.github.io/framemaker/</loc>
-    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
   
@@ -45,6 +35,11 @@
   <url>
     <loc>https://writarium.github.io/camtasia/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/</loc>
+    <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
   
   <url>
@@ -83,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://writarium.github.io/msword/working-with-cover-logo-title-toc/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://writarium.github.io/framemaker/use-modules/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
@@ -93,8 +93,18 @@
   </url>
   
   <url>
+    <loc>https://writarium.github.io/msword/common-word-document-tasks/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://writarium.github.io/writing-guidelines/organizing-information/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -115,11 +125,6 @@
   <url>
     <loc>https://writarium.github.io/camtasia/creating-quizzes/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -145,16 +150,6 @@
   <url>
     <loc>https://writarium.github.io/working-with-documents/document-types-elements/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/common-word-document-tasks/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/components-of-a-document/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -503,13 +498,33 @@
   </url>
   
   <url>
+    <loc>https://writarium.github.io/categories/copyright-and-table-of-contents/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/covers/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://writarium.github.io/categories/documentation-life-cycle/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
   
   <url>
+    <loc>https://writarium.github.io/categories/logos/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://writarium.github.io/categories/organizing-topics-with-maps/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/categories/titles/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -520,196 +535,6 @@
   <url>
     <loc>https://writarium.github.io/categories/topic-elements/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/cover-or-title-page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/toc/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/adding-graphics/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/adding-tables/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/adding-the-copyright-page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/building-an-index/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/bulleted-and-bodybulletedlast-styles/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/company-logo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/cover-or-title-page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/creating-a-sub-document/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/creating-an-index/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/creating-and-inserting-a-table-of-contents/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/creating-master-index-and-table-of-contents-for-a-large-document/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/creating-master-indexes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/creating-master-table-of-contents/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/dividing-huge-word-documents-into-small-chunks-sub-documents/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/formatting-headers-and-footers/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/headings-and-their-hierarchical-order/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/inserting-a-blank-page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/inserting-and-preventing-page-breaks/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/inserting-index-markers/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/inserting-watermarks/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/numbered-styles/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/numbering-pages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/organizing-information-in-lists/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/prepare-for-and-create-a-master-index/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/preparing-for-and-create-master-a-toc/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/prevent-the-paragraphs-from-splitting-across-pages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/preventing-a-page-break-across-a-table-row/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/release-month-and-year/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/specifying-the-document-title/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/splitting-documents-into-separate-files/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/starting-chapters-on-new-pages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/structuring-information-using-headings/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/tables-graphics-and-indexes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/troubleshooting-indexes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/updating-indexes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://writarium.github.io/msword/topics/using-body-styles/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -1,22 +1,22 @@
 # Netlify redirects. See https://www.netlify.com/docs/redirects/
 
-/themes/overview/                  	/msword/topics/test_index/
-/themes/                           	/msword/topics/test_index/
 /themes/overview/                  	/framemaker/
 /themes/                           	/framemaker/
-/themes/overview/                  	/msword/
-/themes/                           	/msword/
 /overview/introduction/            	/dita-main/
 /overview/introduction/            	/writing-guidelines/
 camtasia                           	/camtasia/
+/themes/overview/                  	/msword/
+/themes/                           	/msword/
 document                           	/document-life-cycle/
 life                               	/document-life-cycle/
 cycle                              	/document-life-cycle/
 /project estimation/               	/writing-guidelines/estimating-planning-documentation/
+/word/document/tasks/              	/msword/working-with-cover-logo-title-toc/
 /themes/usage/                     	/framemaker/use-modules/
 /themes/installing/                	/framemaker/use-modules/
 /installing-and-using-themes/      	/framemaker/use-modules/
 /importing powerpoint/camtasia/    	/camtasia/importing-powerpoint-slides/
+/word/document/tasks/              	/msword/common-word-document-tasks/
 /overview/usage/                   	/writing-guidelines/organizing-information/
 /extras/livereload/                	/writing-guidelines/organizing-information/
 /doc/usage/                        	/writing-guidelines/organizing-information/
@@ -34,8 +34,6 @@ document                           	/document-life-cycle/waterfall-document-life
 life                               	/document-life-cycle/waterfall-document-life-cycle/
 cycle                              	/document-life-cycle/waterfall-document-life-cycle/
 agile                              	/document-life-cycle/waterfall-document-life-cycle/
-/word/document/tasks/              	/msword/common-word-document-tasks/
-/word/elements/document/           	/msword/components-of-a-document/
 /quickstart/                       	/dita-main/topic-elements/
 /overview/quickstart/              	/dita-main/topic-elements/
 /overview/source-directory/        	/dita-main/generic-topic/
