@@ -538,6 +538,191 @@
   </url>
   
   <url>
+    <loc>https://writarium.github.io/msword/cover-or-title-page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/adding-graphics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/adding-tables/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/adding-the-copyright-page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/building-an-index/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/bulleted-and-bodybulletedlast-styles/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/company-logo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/cover-or-title-page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/creating-a-sub-document/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/creating-an-index/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/creating-and-inserting-a-table-of-contents/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/creating-master-index-and-table-of-contents-for-a-large-document/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/creating-master-indexes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/creating-master-table-of-contents/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/dividing-huge-word-documents-into-small-chunks-sub-documents/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/formatting-headers-and-footers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/headings-and-their-hierarchical-order/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/inserting-a-blank-page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/inserting-and-preventing-page-breaks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/inserting-index-markers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/inserting-watermarks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/numbered-styles/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/numbering-pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/organizing-information-in-lists/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/prepare-for-and-create-a-master-index/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/preparing-for-and-create-master-a-toc/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/prevent-the-paragraphs-from-splitting-across-pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/preventing-a-page-break-across-a-table-row/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/release-month-and-year/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/specifying-the-document-title/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/splitting-documents-into-separate-files/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/starting-chapters-on-new-pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/structuring-information-using-headings/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/tables-graphics-and-indexes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/troubleshooting-indexes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/updating-indexes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://writarium.github.io/msword/new-folder/using-body-styles/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://writarium.github.io/categories/dita-maps/</loc>
     <lastmod>2019-09-21T08:29:49+05:30</lastmod>
   </url>
