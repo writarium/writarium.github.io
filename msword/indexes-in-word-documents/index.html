@@ -57,7 +57,7 @@
 
 <meta itemprop="datePublished" content="2019-07-24T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2019-07-24T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="249">
+<meta itemprop="wordCount" content="800">
 
 
 
@@ -263,16 +263,106 @@ Few points to keep in mind while creating indexes are:</p>
 <li>Divide a primary entry in to sub entries.
 <img src="/images/msword/index-sub-entries.png" alt="correct incorrect index sub entries"></li>
 <li>Group related sub entries under appropriate primary entries
-<img src="/images/msword/index-group-related-sub-entries.png" alt="group related index sub entries"></li>
+<img src="/images/msword/index-group-related-sub-entries.png" alt="group related index sub entries">
+<br /></li>
 </ul>
 
 <h2 id="inserting-index-markers">Inserting Index Markers</h2>
 
+<p>The index markers are defined based on the headings. As a convention, there are at least two index makers per heading. However, the formats in which these index entries are given differ for each heading type.</p>
+
+<ul>
+<li><p><strong>H2 to H4 headings:</strong> There are generally two markers added per title. For one index entry, the verb is followed by a noun while for another its vice versa. This enables the reader to look up topics in a couple of ways. For example, enter <strong><code>{ XE “deleting:customer records” }{ XE”customer records:deleting” }</code></strong>. A reader can look for both deleting and customer records to find topics of interest.</p></li>
+
+<li><p><strong>For H5 headings:</strong> Include two index markers. For procedures, use the <strong><code>How To: &lt;verb&gt;</code></strong> format, for example. However, for the second entry you can use the verb followed by a colon and How to or simply use the verb. The basic aim is to provide a quick reference to the user in an organized manner.
+For example, <strong><code>{ XE “How to:insert index markers” }{ XE”insert index markers:how to” }</code></strong></p></li>
+</ul>
+
+<p>To insert index markers:</p>
+
+<ol>
+<li><p>Open the document is which you are working, and make sure you can view all hidden text.
+
+<aside class="admonition note">
+	<div class="note-icon">
+		
+	</div>
+	
+	
+	<div class="admonition-content"><p>To view hidden text, press the combination of <strong><code>Alt + F9</code></strong> keys on your keyboard.</p>
+</div>
+</aside>
+</p></li>
+
+<li><p>Place the cursor after the title.</p></li>
+
+<li><p>On the <strong>References</strong> tab, click <strong>Mark Entry</strong>.
+<img src="/images/msword/index-mark-entry.png" alt="index mark entry"></p></li>
+
+<li><p>The <strong>Mark Index Entry</strong> dialog box appears.
+<img src="/images/msword/mark-index-entry.png" alt="mark index entry"></p></li>
+
+<li><p>Complete the index entry. For example, enter <strong><code>Inserting</code></strong> <strong><code>index markers</code></strong>
+<img src="/images/msword/mark-index-entry-filled.png" alt="mark index entry">
+The index entry is marked next to the title and is labelled as <strong><code>{XE”inserting:index markers”}</code></strong> code.
+<img src="/images/msword/xe-inserted.png" alt="mark index entry">
+
+<aside class="admonition note">
+	<div class="note-icon">
+		
+	</div>
+	
+	
+	<div class="admonition-content"><p>As mentioned above, to view the <code>XE</code> field codes, press the combination of <strong><code>Alt + F9</code></strong> keys on your keyboard.</p>
+</div>
+</aside>
+</p></li>
+
+<li><p>Repeat steps 2 to 5 until you are finished with all the titles in the document.</p></li>
+</ol>
+
 <h2 id="building-an-index">Building an Index</h2>
+
+<p>After you have marked all the index entries, you can start building the index.</p>
+
+<ol>
+<li>To ensure that the document is paginated correctly, hide the field codes and hidden text. If the XE (Index Entry) fields are visible, click Show/Hide button ¶ on the standard tool bar.</li>
+<li>Click where you want to insert the finished index. This is probably at the last page of the guide.</li>
+
+<li><p>On the <strong>References</strong> tab, click <strong>Insert Index</strong>.
+<img src="/images/msword/insert-index.png" alt="insert index dialog box">
+The <strong>Index</strong> dialog box appears.
+<img src="/images/msword/insert-index-dialog-box.png" alt="insert index dialog box"></p></li>
+
+<li><p>Select <strong>Classic</strong> from the <strong>Formats</strong> list.</p></li>
+
+<li><p>In the <strong>Type</strong> area, click <strong>Indented</strong> if needed.</p></li>
+
+<li><p>Select 2 on the <strong>Columns</strong> list.</p></li>
+
+<li><p>Click the <strong>OK</strong> button. The index is inserted.</p></li>
+
+<li><p>Select all text and change to a font face, color, and size of your choice.</p></li>
+</ol>
 
 <h2 id="updating-indexes">Updating Indexes</h2>
 
+<p>If you modify the document, you need to update the index. Do not modify the entries in the finished index manually. If you do so, changes are lost when you update the index. Therefore, it is recommended to edit the text in the index markers, and not in the index.</p>
+
+<p>To update an index:</p>
+
+<ol>
+<li>Click to the left of the field.</li>
+<li>Press F9. The index is updated.</li>
+<li>Select all index text and change the font face, color, and size.</li>
+</ol>
+
 <h2 id="troubleshooting-indexes">Troubleshooting Indexes</h2>
+
+<p>When you insert an XE field code, a space may be inserted in the field code between the words and the colon (:) by mistake. The presence of this space causes indenting problems in the index, as shown below.
+   <img src="/images/msword/troubleshooting-index.png" alt="insert index dialog box"></p>
+
+<p>To resolve this, click <strong>Show/Hide</strong> button ¶ on the standard tool bar and remove the space between the word and colon (:).</p>
 
 </div>
 
