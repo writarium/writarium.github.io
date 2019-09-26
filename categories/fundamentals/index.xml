@@ -42,12 +42,13 @@ For example, if the table of contents is just one page in length, this makes a t
     </item>
     
     <item>
-      <title>Dividing Huge Word Documents into Small Chunks (Sub Documents)</title>
+      <title>Dividing Huge Word Documents into Small Chunks (Subdocuments)</title>
       <link>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</guid>
-      <description>Microsoft Word Technical Support recommends that you avoid working with documents that are over approximately 100 pages. For all documents that are over 100 pages, you need to break them into separate Word files or subdocuments. Then you must use field codes to point to the separate documents, and compile a master table of contents and a master index.</description>
+      <description>Microsoft Word Technical Support recommends that you avoid working with documents that are over approximately 100 pages. For all documents that are over 100 pages, you need to divide them into separate Word files or subdocuments. Then you must use field codes to point to the separate documents, and compile a master table of contents and a master index.
+As the steps are quite extensive, attached is my favorite video tutorial I could find on this title.</description>
     </item>
     
     <item>
