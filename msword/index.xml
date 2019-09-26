@@ -23,12 +23,13 @@
     </item>
     
     <item>
-      <title>Common Word Document Tasks</title>
-      <link>https://writarium.github.io/msword/common-word-document-tasks/</link>
+      <title>Working with Page Elements</title>
+      <link>https://writarium.github.io/msword/working-with-page-elements/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://writarium.github.io/msword/common-word-document-tasks/</guid>
-      <description> Inserting a Blank Page Numbering Pages Formatting Headers and Footers Inserting Watermarks Structuring Information using Headings Headings and their Hierarchical Order Using Body Styles Inserting and Preventing Page Breaks Preventing a page break across a table row Starting Chapters on New Pages Preventing Paragraphs to Split Across Pages Prevent the paragraphs from splitting across pages Organizing Information in Lists Numbered Styles Bulleted and BodyBulletedLast Styles Tables, Graphics, and Indexes Adding Tables Adding Graphics </description>
+      <guid>https://writarium.github.io/msword/working-with-page-elements/</guid>
+      <description>Inserting a Blank Page A blank page may be required after the Table of Contents to ensure that the first chapter starts on the odd page. This often depends on the length of the table of contents.
+For example, if the table of contents is just one page in length, this makes a total of three pages before the text of the first page, which has the title page, copyright page, and Contents page.</description>
     </item>
     
     <item>
@@ -37,7 +38,7 @@
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://writarium.github.io/msword/dividing-huge-word-documents-into-small-chunks/</guid>
-      <description> Creating Master Index and Table of Contents for a Large Document Splitting Documents into Separate Files Creating a Sub-Document Creating Master Indexes Prepare for and create a master Index## Creating Master Table of Contents Preparing for and create master a TOC </description>
+      <description>Microsoft Word Technical Support recommends that you avoid working with documents that are over approximately 100 pages. For all documents that are over 100 pages, you need to break them into separate Word files or subdocuments. Then you must use field codes to point to the separate documents, and compile a master table of contents and a master index.</description>
     </item>
     
     <item>
